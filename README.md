@@ -31,13 +31,6 @@ Built with **Compose Multiplatform** for shared UI and following **Clean Archite
 - Smooth navigation with type-safe routing
 - Image loading with Coil 3 for optimal performance
 
----
-
-## 📱 Video
-<video height="500" src="https://github.com/user-attachments/assets/b704921a-b947-427d-b061-f508e54dddca" />
-
----
-
 ## 🏗️ Architecture
 
 ### Clean Architecture Implementation
@@ -394,3 +387,10 @@ After modifying database entities:
 ## 🙏 Acknowledgments
 
 This project demonstrates modern Kotlin Multiplatform development patterns and serves as a reference implementation for building production-grade cross-platform applications with Compose Multiplatform.
+
+---
+
+## 📱 Video
+<video height="500" src="https://github.com/user-attachments/assets/b704921a-b947-427d-b061-f508e54dddca" />
+
+---
